@@ -1,0 +1,10 @@
+This is an updated kernel source for Lenovo K860/I
+
+Notable changes to the code are:
+*ability to compile with up to Linaro 4.7
+*ported mali/ump from samsungs smdk4412 kernel 
+*boots on 4.2 (with some changes on Android side)
+
+***Edit Makefile first to correct toolchain path****
+
+Enjoy!
